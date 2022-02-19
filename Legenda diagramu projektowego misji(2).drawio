@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T16:46:08.276Z" agent="5.0 (Windows)" etag="E0KzXUjWUBlT16y29VpZ" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-19T17:45:08.115Z" agent="5.0 (Windows)" etag="gC2lyzEGhUeE3dtk6u_W" version="16.6.1" type="github" pages="3">
   <diagram id="NNKxEHsF1nf1VZCkoCeh" name="Strona-1">
     <mxGraphModel dx="1206" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,6 +439,357 @@
             <mxPoint x="697" y="-270" as="sourcePoint" />
             <mxPoint x="410" y="-220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-3" id="RHIxnD2PpwBOoqJxh1e8">
+    <mxGraphModel dx="2033" dy="3090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-0" />
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-1" parent="YvVL6zBtYwET4k6TKZNd-0" />
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-3" target="YvVL6zBtYwET4k6TKZNd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=14;strokeColor=none;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="270" y="-1150" width="280" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-4" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1140" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-5" value="Fiddler" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1100" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-8" target="YvVL6zBtYwET4k6TKZNd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-7" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1050" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-8" value="Merchant" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1010" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-9" value="&lt;div&gt;Fight ending with character`s death/&lt;/div&gt;&lt;div&gt;Walka zakończona śmiercią uczestnika&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-950" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-10" value="&lt;b&gt;Hero&lt;/b&gt;, rat" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-910" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Próba zdobycia wlosia od konia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-830" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-12" value="&lt;div&gt;Exchanging item for item/&lt;/div&gt;&lt;div&gt;Wymiana przedmiotu na przedmiot&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-624" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-13" value="Hero, Fiddler, Fiddlestick, keys" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-584" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#fff2cc;strokeWidth=1;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="390" y="-140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-63" target="YvVL6zBtYwET4k6TKZNd-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="133" y="-200.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-16" value="&lt;div&gt;Fight ending with character`s death/&lt;/div&gt;&lt;div&gt;Walka zakończona śmiercią uczestnika&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-950" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-17" value="Hero, &lt;b&gt;rat&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-910" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Próba zdobycia wlosia od konia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-830" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#000000;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-100" y="-830" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#000000;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-100" y="-940" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-18" target="YvVL6zBtYwET4k6TKZNd-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-800" as="sourcePoint" />
+            <mxPoint x="310" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-22" value="Fight ending with character’s death / Walka zakończona śmiercią uczestnika" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-330" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-23" value="Hero, &lt;b&gt;Fiddler&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-290" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#000000;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-90" y="-320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-26" target="YvVL6zBtYwET4k6TKZNd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Powrót do pasterza, zwrot owiec, otrzymanie 30 monet&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-220" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-27" value="Making a deal / Transakcja kupna-sprzedaży" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-1180" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.997;exitY=0.643;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-27" target="YvVL6zBtYwET4k6TKZNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="-1154" />
+              <mxPoint x="890" y="-604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-29" value="Merchant, Fiddlestick, 50 coins" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-1140" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-30" value="Kupno smyczka po zaniżonej cenie w podzięce za pozbycie się szczurów" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-950" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-30" target="YvVL6zBtYwET4k6TKZNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="-920" />
+              <mxPoint x="890" y="-604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-32" value="Merchant, Fiddlestick, 25 coins" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-910" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-33" value="Knowledge acquisition / Pozyskanie wiedzy fabularnej" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-1260" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="-1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-35" value="Inkeeper/Fiddler" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-36" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-1260" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-38" target="YvVL6zBtYwET4k6TKZNd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-1190" as="sourcePoint" />
+            <mxPoint x="410" y="-1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="-1160" />
+              <mxPoint x="410" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-38" value="Road" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-1220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-39" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=none;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-10" y="-960" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.018;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-39" target="YvVL6zBtYwET4k6TKZNd-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.82999999999998" y="-889.9999999999998" as="sourcePoint" />
+            <mxPoint x="129.82999999999998" y="-849.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-41" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=none;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-10" y="-840" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-35" target="YvVL6zBtYwET4k6TKZNd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-1170" as="sourcePoint" />
+            <mxPoint x="420" y="-1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-980" as="sourcePoint" />
+            <mxPoint x="410" y="-1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-16" target="YvVL6zBtYwET4k6TKZNd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-900" as="sourcePoint" />
+            <mxPoint x="420" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-45" value="Kupno smyczka po zaniżonej cenie w zamian za dostarczenie materiału końskiego włosia" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-830" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-46" value="Merchant, Fiddlestick, 25 coins" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-780" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-39" target="YvVL6zBtYwET4k6TKZNd-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-980" as="sourcePoint" />
+            <mxPoint x="420" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.399;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-11" target="YvVL6zBtYwET4k6TKZNd-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-810" as="sourcePoint" />
+            <mxPoint x="420" y="-829.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-49" value="Otrzymanie smyczka za darmo za wykonanie obu zadań" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-730" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-50" value="Merchant, Fiddlestick" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-680" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-41" target="YvVL6zBtYwET4k6TKZNd-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-869.9999999999998" as="sourcePoint" />
+            <mxPoint x="420" y="-829.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-50" target="YvVL6zBtYwET4k6TKZNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-770" as="sourcePoint" />
+            <mxPoint x="420" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-53" value="Hero&lt;b&gt;,&lt;/b&gt; horse" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-790" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-54" value="&lt;b&gt;Hero&lt;/b&gt;, horse" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry y="-790" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-38" target="YvVL6zBtYwET4k6TKZNd-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="-1180" as="sourcePoint" />
+            <mxPoint x="420" y="-1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="-1170" />
+              <mxPoint x="130" y="-1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" target="YvVL6zBtYwET4k6TKZNd-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-1030.1099999999997" as="sourcePoint" />
+            <mxPoint x="600" y="-1030.1099999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-1030" />
+              <mxPoint x="570" y="-860" />
+              <mxPoint x="410" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-46" target="YvVL6zBtYwET4k6TKZNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-739.95" as="sourcePoint" />
+            <mxPoint x="660.78" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-58" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-490" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="-524" as="sourcePoint" />
+            <mxPoint x="410" y="-489" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-60" value="Sheperd" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-450" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-61" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Skrzypek ucieka do lasu uprowadzając owce pasterza&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-564" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-62" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Pasterz mówi, że widział jak skrzypek uciekł z owcami do lasu, oferuje 30 monet za sprowadzenie ich z powrotem&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="280" y="-430" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-63" value="Fight ending with character’s death / Walka zakończona śmiercią uczestnika" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="3" y="-330" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-64" value="&lt;b&gt;Hero&lt;/b&gt;, Fiddler" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="3" y="-290" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" target="YvVL6zBtYwET4k6TKZNd-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.88" y="-370" as="sourcePoint" />
+            <mxPoint x="409.88" y="-335" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-66" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-490" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-67" value="Fiddler" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-450" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Skrzypek mówi, że nie podoba mu się zarabianie na życie muzyką, więc uprowadził owce z pastwiska i żąda okupu 100 monet&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-430" width="263" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-61" target="YvVL6zBtYwET4k6TKZNd-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-530" as="sourcePoint" />
+            <mxPoint x="580" y="-495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-510" />
+              <mxPoint x="697" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-70" value="Making a deal / Transakcja kupna-sprzedaży" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-340" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-71" value="Fiddler, nothing, 100 coins" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-300" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" target="YvVL6zBtYwET4k6TKZNd-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="697" y="-370" as="sourcePoint" />
+            <mxPoint x="987" y="-336" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="697" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-75" target="YvVL6zBtYwET4k6TKZNd-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-170" as="sourcePoint" />
+            <mxPoint x="420" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-76" target="YvVL6zBtYwET4k6TKZNd-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-160" as="sourcePoint" />
+            <mxPoint x="430" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="697" y="-240" />
+              <mxPoint x="410" y="-240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-75" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=none;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="-10" y="-340" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-76" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Skrzypek wraca na pastwisko&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="567" y="-280" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-71" target="YvVL6zBtYwET4k6TKZNd-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="697" y="-270" as="sourcePoint" />
+            <mxPoint x="410" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-78" value="Sheperd" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-1260" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-79" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-1300" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-80" value="Pasterz myśli, że skrzypek na pastwisku knuje coś niedobrego, nie ufa mu" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry x="600" y="-1240" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
