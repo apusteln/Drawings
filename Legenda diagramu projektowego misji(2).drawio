@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T17:48:25.495Z" agent="5.0 (Windows)" etag="qkxXXRkeSH-HO9m3xbmO" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-19T17:52:41.062Z" agent="5.0 (Windows)" etag="gp0ui4Aqg2QZd-r5hv_-" version="16.6.1" type="github" pages="3">
   <diagram id="NNKxEHsF1nf1VZCkoCeh" name="Strona-1">
     <mxGraphModel dx="1206" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-3" id="RHIxnD2PpwBOoqJxh1e8">
-    <mxGraphModel dx="1832" dy="2965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1516" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-0" />
         <mxCell id="YvVL6zBtYwET4k6TKZNd-1" parent="YvVL6zBtYwET4k6TKZNd-0" />
@@ -712,18 +712,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-66" value="&lt;div&gt;Getting Knowledge from conversation/&lt;/div&gt;&lt;div&gt;Rozmowa z pozyskaniem informacji&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
-          <mxGeometry x="567" y="-490" width="260" height="40" as="geometry" />
+          <mxGeometry x="567" y="-490" width="263" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-67" value="Fiddler" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
-          <mxGeometry x="567" y="-450" width="260" height="20" as="geometry" />
+          <mxGeometry x="567" y="-450" width="263" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Skrzypek mówi, że nie podoba mu się zarabianie na życie muzyką, więc uprowadził owce z pastwiska i żąda okupu 100 monet&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
           <mxGeometry x="567" y="-430" width="263" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YvVL6zBtYwET4k6TKZNd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-61" target="YvVL6zBtYwET4k6TKZNd-66">
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="-530" as="sourcePoint" />
-            <mxPoint x="580" y="-495" as="targetPoint" />
+            <mxPoint x="697" y="-490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="-510" />
               <mxPoint x="697" y="-510" />
@@ -735,15 +735,6 @@
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-71" value="Fiddler, nothing, 100 coins" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
           <mxGeometry x="567" y="-300" width="260" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YvVL6zBtYwET4k6TKZNd-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" target="YvVL6zBtYwET4k6TKZNd-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="697" y="-370" as="sourcePoint" />
-            <mxPoint x="987" y="-336" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="697" y="-370" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1" source="YvVL6zBtYwET4k6TKZNd-75" target="YvVL6zBtYwET4k6TKZNd-26">
           <mxGeometry relative="1" as="geometry">
@@ -781,6 +772,16 @@
         </mxCell>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-80" value="Pasterz myśli, że skrzypek na pastwisku knuje coś niedobrego, nie ufa mu" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="YvVL6zBtYwET4k6TKZNd-1">
           <mxGeometry x="600" y="-1240" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvVL6zBtYwET4k6TKZNd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="YvVL6zBtYwET4k6TKZNd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="698.39" y="-360" as="sourcePoint" />
+            <mxPoint x="698.39" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="698.39" y="-360" />
+              <mxPoint x="698.39" y="-360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
