@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T09:29:29.637Z" agent="5.0 (Windows)" etag="9b3_EpiqWgTxYv7l7z23" version="16.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-20T22:54:07.212Z" agent="5.0 (Windows)" etag="vOrO3A5ioomrN77Y1IEQ" version="16.6.1" type="github" pages="4">
   <diagram id="NNKxEHsF1nf1VZCkoCeh" name="Strona-1">
     <mxGraphModel dx="1206" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-3" id="RHIxnD2PpwBOoqJxh1e8">
-    <mxGraphModel dx="1832" dy="2965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="3369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YvVL6zBtYwET4k6TKZNd-0" />
         <mxCell id="YvVL6zBtYwET4k6TKZNd-1" parent="YvVL6zBtYwET4k6TKZNd-0" />
@@ -787,7 +787,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OMTL1QQwcfvFI3yKq2kf" name="Page-4">
-    <mxGraphModel dx="861" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1208" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="55iJjRwArS4zSgEi5OsC-0" />
         <mxCell id="55iJjRwArS4zSgEi5OsC-1" parent="55iJjRwArS4zSgEi5OsC-0" />
